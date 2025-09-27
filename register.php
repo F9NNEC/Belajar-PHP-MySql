@@ -40,7 +40,7 @@
 <body>
     <?php include "layout/header.html" ?>
 
-    <h3>REGISTER SEKARANG</h3>
+    <h3>Register sekarang</h3>
 
     <i><?= $register_massage ?></i>
     

@@ -40,7 +40,7 @@
 </head>
 <body>
     <?php include "layout/header.html" ?>
-    <h3>MASUK SEKARANG</h3>
+    <h3>Masuk sekarang</h3>
 
     <i><?= $login_massage ?></i>
 

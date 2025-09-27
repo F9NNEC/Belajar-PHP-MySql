@@ -18,7 +18,7 @@
 <body>
     <?php include "layout/header.html" ?>
 
-    <h3>Selamat datang <?= $_SESSION["username"] ?></h3>
+    <h2>Selamat datang <?= $_SESSION["username"] ?></h2>
 
     <form action="dashboard.php" method="POST">
         <button type="submit" name="logout">Logout</button>

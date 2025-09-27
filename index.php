@@ -9,7 +9,7 @@
     <?php include "layout/header.html" ?>
     
     <main>
-        <p>tetstetsetsttetset</p>
+        <p>May the force be with you</p>
     </main>                              
     
     <?php include "layout/footer.html" ?>
